@@ -2,15 +2,22 @@
 Data Science Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### Education
+B.Tech Information Technology
 
-[Link to another page](./another-page.html).
+#### Technical Skills
+* SQL
+* Data visualization
+* Excel
+* Machine learning
+* Data cleansing
+* Statistics
+* Python
+* Data modeling
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+### Lead Score Analysis-Model Building by Logistic Regression(ML)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
